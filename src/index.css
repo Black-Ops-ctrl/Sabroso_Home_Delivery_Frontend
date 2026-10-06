@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@import "@fontsource/poppins/400.css";
+@import "@fontsource/poppins/500.css";
+@import "@fontsource/poppins/600.css";
+@import "@fontsource/poppins/700.css";
+@import "@fontsource/jura/600.css";
+@import "@fontsource/jura/700.css";
+
+@import "./styles/sabroso.css";
+
+@import "./styles/theme.css";
+@import "./styles/orders.css";
+@import "./styles/fleet.css";
+@import "./styles/finish.css";
